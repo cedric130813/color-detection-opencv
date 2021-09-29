@@ -10,5 +10,4 @@ Demo: (Detecting a red t-shirt)
 Further reading and useful links:
 <br>
 - openCV official page - https://opencv.org/
-<br>
 - openCV official GitHub - https://github.com/opencv/opencv
