@@ -6,3 +6,6 @@ Tools used: openCV (python)
 Demo: (Detecting a red t-shirt)
 <br><br>
 <img width=70% height=70% src=https://github.com/cedric130813/color-detection-opencv/blob/91b78bdcc300526fd497078e106177af21754e3f/color%20detection.PNG />
+
+Further reading and useful links:
+openCV's official page - https://opencv.org/
