@@ -8,5 +8,7 @@ Demo: (Detecting a red t-shirt)
 <img width=70% height=70% src=https://github.com/cedric130813/color-detection-opencv/blob/91b78bdcc300526fd497078e106177af21754e3f/color%20detection.PNG />
 
 Further reading and useful links:
-openCV official page - https://opencv.org/
-openCV official GitHub - https://github.com/opencv/opencv
+<br>
+- openCV official page - https://opencv.org/
+<br>
+- openCV official GitHub - https://github.com/opencv/opencv
