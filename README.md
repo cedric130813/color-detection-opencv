@@ -1,7 +1,8 @@
 ### 🎨 Colour detection with openCV 📷
 Tools used: openCV (python)
-- This is another openCV project which I'm testing out to detect colour(s) (converting BGR to HSV - [refer to this](https://stackoverflow.com/questions/17063042/why-do-we-convert-from-rgb-to-hsv)), which in this case is red colour. 
+- This is another openCV project which I'm testing out to detect colour(s) (converting BGR to HSV - [refer to this](https://stackoverflow.com/questions/17063042/why-do-we-convert-from-rgb-to-hsv)), which in the demo is red colour. 
 - The idea behind this is to create lower and upper boundaries for the red colour for the "mask" which will match with the image
+- Update 1 (29 Sept 2021): added the feature to detect blue colour
 
 Demo: (Detecting a red t-shirt)
 <br><br>
