@@ -40,6 +40,7 @@ while True:
 
     # For red color
     red_result = cv2.bitwise_and(frame, frame, mask=red_mask_1 | red_mask_2)
+    # For blue color
     blue_result = cv2.bitwise_and(frame, frame, mask =blue_mask_1)
 
     cv2.imshow('frame', red_result|blue_result)
