@@ -5,11 +5,12 @@ Tools used: openCV (python)
 - Update 1 (29 Sept 2021): added the feature to detect blue colour
 
 Demo: 
-Detecting a red t-shirt
+<br><br>
+1. Detecting a red t-shirt
 <br><br>
 <img width=70% height=70% src=https://github.com/cedric130813/color-detection-opencv/blob/91b78bdcc300526fd497078e106177af21754e3f/color%20detection.PNG />
-
-Detecting the blue and red contours of a book
+<br><br>
+2. Detecting the blue and red contours of a book
 <br><br>
 <img width=70% height=70% src=https://github.com/cedric130813/color-detection-opencv/blob/7a3ec351279583c2e57adaab54052ef70d021471/contours.PNG />
 
