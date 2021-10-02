@@ -4,9 +4,15 @@ Tools used: openCV (python)
 - The idea behind this is to create lower and upper boundaries for the red colour for the "mask" which will match with the image
 - Update 1 (29 Sept 2021): added the feature to detect blue colour
 
-Demo: (Detecting a red t-shirt)
+Demo: 
+Detecting a red t-shirt
 <br><br>
 <img width=70% height=70% src=https://github.com/cedric130813/color-detection-opencv/blob/91b78bdcc300526fd497078e106177af21754e3f/color%20detection.PNG />
+
+Detecting the blue and red contours of a book
+<br><br>
+<img width=70% height=70% src=https://github.com/cedric130813/color-detection-opencv/blob/7a3ec351279583c2e57adaab54052ef70d021471/contours.PNG />
+
 
 Further reading and useful links:
 <br>
