@@ -7,13 +7,10 @@ Tools used: openCV (python)
 
 Demo: 
 <br><br>
-1. Detecting a red t-shirt
+Detecting a red t-shirt
 <br><br>
 <img width=70% height=70% src=https://github.com/cedric130813/color-detection-opencv/blob/91b78bdcc300526fd497078e106177af21754e3f/color%20detection.PNG />
 <br><br>
-2. Detecting the blue and red contours of a book
-<br><br>
-<img width=70% height=70% src=https://github.com/cedric130813/color-detection-opencv/blob/7a3ec351279583c2e57adaab54052ef70d021471/contours.PNG />
 
 
 Further reading and useful links:
